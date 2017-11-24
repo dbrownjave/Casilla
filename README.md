@@ -6,10 +6,18 @@
 ## Overview of Casilla
 ###### Casilla is a simple utility that will hide and unhide all your running applications.
 
-
 ### English 🇺🇸 
 
 ### Español 🇪🇸
+
+## Features 
+
+## Download
+
+
+
+
+
 
 ##### Development Status [90%] 
 

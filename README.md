@@ -39,7 +39,7 @@ information about Casilla.
 
 
 ## 📦 Credits
- <> made with ♥️ by Dorian Javä Brown
+ Code made with ♥️ by Developer: Dorian Javä Brown & Idealist: Carol Meza
 
 ## 📦  License
 

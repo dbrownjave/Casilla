@@ -12,7 +12,11 @@
 
 ## Features 
 
-## Download
+## :box: Where can I get it?
+
+Download the installer for your operating system:
+
+  - [macOS](https://www.dropbox.com/s/qvg7b6cw7sbyuo3/Casilla%20%280.23%29%20Beta.zip?dl=0)
 
 
 

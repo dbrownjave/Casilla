@@ -14,7 +14,7 @@ Casilla es una utilidad simple que ocultará y mostrará todas las aplicaciones 
 ## 📦  Download
 Download the installer for your operating system:
 
-  - [macOS](https://www.dropbox.com/s/qvg7b6cw7sbyuo3/Casilla%20%280.23%29%20Beta.zip?dl=0)
+  - [macOS](http://www.casilla.co/)
 
 
 ##  📦  Issues
@@ -39,7 +39,9 @@ information about Casilla.
 
 
 ## 📦 Credits
- Code made with ♥️ by Developer: Dorian Javä Brown & Idealist: Carol Meza
+ Code made with lots of ♥️ 
+  - **Developer:** [Dorian Javä Brown](www.dorianbrown.me) 
+  - **Idealist:** Carol Meza
 
 ## 📦  License
 

@@ -18,7 +18,6 @@ Download the installer for your operating system:
 
 
 ##  📦  Issues
-
 First, please search the [open issues](https://github.com/ZEUSOFCS/Casilla/issues?q=is%3Aopen)
 and [closed issues](https://github.com/ZEUSOFCS/Casilla/issues?q=is%3Aclosed)
 to see if your issue hasn't already been reported (it may also be fixed).
@@ -30,7 +29,17 @@ further.
 ## 📦  More Resources
 
 See [casilla.co](http://casilla.co) for more product-oriented
-information about Kactus.
+information about Casilla.
+
+
+## 📦  What's Next?
+- Improved UI to make it easier for users to hide applications
+- Improved Performance
+- Provide users with the option on how to diplay Casilla (e.g. Status bar, Desktop icon)
+
+
+## 📦 Credits
+ <> made with ♥️ by Dorian Javä Brown
 
 ## 📦  License
 

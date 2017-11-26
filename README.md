@@ -2,14 +2,12 @@
 
 ![header badge 2x](https://user-images.githubusercontent.com/19171147/31975852-0507d70e-b902-11e7-8099-24dc305e9329.png)
 
-###### Hide Activities, Resume Later
-
 ## Overview of Casilla [Beta]
 
-### English 🇺🇸
+#### English 🇺🇸
 Casilla is a simple utility that will hide and unhide all your running applications.
 
-### Español 🇪🇸
+#### Español 🇪🇸
 Casilla es una utilidad simple que ocultará y mostrará todas las aplicaciones en ejecución.
 
 

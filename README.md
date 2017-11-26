@@ -40,8 +40,8 @@ information about Casilla.
 
 ## 📦 Credits
  Code made with lots of ♥️ 
-  - **Developer + UX/UI Designer:** [Dorian Javä Brown](www.dorianbrown.me) 
-  - **Idealist:** Carol Meza
+  - **Developer 👨🏽‍🎨 :** [Dorian Javä Brown](www.dorianbrown.me) 
+  - **Idealist 💡 :** Carol Meza
 
 ## 📦  License
 

@@ -40,7 +40,7 @@ information about Casilla.
 
 ## 📦 Credits
  Code made with lots of ♥️ 
-  - **Developer 👨🏽‍🎨 :** [Dorian Javä Brown](www.dorianbrown.me) 
+  - **Developer 🏽‍💻 👨🏽‍🎨 :** [Dorian Javä Brown](www.dorianbrown.me) 
   - **Idealist 💡 :** Carol Meza
 
 ## 📦  License

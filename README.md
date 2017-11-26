@@ -12,18 +12,18 @@
 
 ## Features 
 
-## :box: Where can I get it?
+## 📦 Download
 
 Download the installer for your operating system:
 
   - [macOS](https://www.dropbox.com/s/qvg7b6cw7sbyuo3/Casilla%20%280.23%29%20Beta.zip?dl=0)
 
 
+## 📦 More Resources
 
+See [casilla.co](http://casilla.co) for more product-oriented
+information about Kactus.
 
+## 📦 License
 
-
-##### Development Status [90%] 
-
-
-
+**[MIT](LICENSE)**

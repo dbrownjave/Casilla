@@ -12,9 +12,8 @@ Casilla es una utilidad simple que ocultará y mostrará todas las aplicaciones 
 
 
 ## 📦  Download
-Download the installer for your operating system:
 
-  - [App Store](https://itunes.apple.com/us/app/casilla/id1347734216?mt=12&ref=producthunt)
+[App Store](https://itunes.apple.com/us/app/casilla/id1347734216?mt=12&ref=producthunt)
 
 
 ##  📦  Issues

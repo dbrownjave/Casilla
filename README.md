@@ -33,7 +33,7 @@ information about Casilla.
 
 
 ## 📦  What's Next?
-- Improved UI to make it easier for users to hide applications
+- Hide Individual Applications
 - Improved Performance
 - Provide users with the option on how to diplay Casilla (e.g. Status bar, Desktop icon)
 

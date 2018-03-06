@@ -1,6 +1,6 @@
 <!--![header 2x](https://user-images.githubusercontent.com/19171147/31974535-4129202e-b8fa-11e7-8f0e-d81e624e013a.png) -->
 
-![header badge 3x](https://user-images.githubusercontent.com/19171147/37039989-cb9dc3ec-2126-11e8-826d-dba471614d97.png)
+![header badge 3x](https://user-images.githubusercontent.com/19171147/37040632-4fca79e8-2128-11e8-8690-2f40c54a5492.png)
 ###### Beta 1.2.4
 ## 📦  Overview of Casilla 
 

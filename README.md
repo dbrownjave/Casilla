@@ -43,6 +43,6 @@ information about Casilla.
   - **Developer   👨🏽‍💻  👨🏽‍🎨 :** [Dorian Javä Brown](www.dorianbrown.me) 
   - **Idealist 💡 :** Carol Meza
 
-## 📦  License
+<!--## 📦  License -->
 
 **[](LICENSE)**
